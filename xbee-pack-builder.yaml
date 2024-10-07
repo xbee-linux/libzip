@@ -1,11 +1,9 @@
 schema-version: 1.0
-type: builder
-
 
 var:
   version: 1.10.1
 
-dependencies:
+dependency:
   - cmake
 
 provision:
